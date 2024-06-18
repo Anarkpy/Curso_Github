@@ -14,7 +14,7 @@ def divide(x, y):
 
 def calculator():
     print("Selecciona una operación:")
-    print("1. Suma")
+    print("1. Suma 4")
     print("2. Resta")
     print("3. Multiplicación")
     print("4. División")
