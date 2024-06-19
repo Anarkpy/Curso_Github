@@ -45,12 +45,4 @@ def calculator():
                     print(result)
                 else:
                     print(f"{num1} / {num2} = {result}")
-
-            next_calculation = input("¿Quieres realizar otra operación? (si/no): ")
-            if next_calculation.lower() != 'si':
-                break
-        else:
-            print("Opción no válida, por favor intenta de nuevo.")
-
-if __name__ == "__main__":
-    calculator()
+            
